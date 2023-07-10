@@ -10,9 +10,9 @@ Clone este repositório usando git clone https://github.com/taycris/siesta ou cl
 Observação: Se abrir uma aplicação no celular, tablet ou qualquer tipo de tela a aplicação se adapta.
 
 Participantes do Projeto:
-Ana Vitoria Lima
-Daniela Aparecida Neves
-Gabriel Moreira
-Rinaldo Vieira Campos
-Tayná Vieira
+Ana Vitoria Lima,
+Daniela Aparecida Neves,
+Gabriel Moreira,
+Rinaldo Vieira Campos,
+Tayná Vieira,
 Uarles Lemes
