@@ -5,11 +5,16 @@ Características
 Esta Landing Page exibe um modelo de página de divulgação de um produto/app. Funciona em todos os tipos de telas.
 
 Instalação
-Clone este repositório usando git clone https://github.com/taycris/siesta ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
+Clone este repositório usando git clone https://github.com/Rinaldovc/siesta ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
 
-Observação: Se abrir uma aplicação no celular, tablet ou qualquer tipo de tela a aplicação se adapta.
+Link para Landing Page
+https://rinaldovc.github.io/Siesta/
+
+Observação
+Se abrir uma aplicação no celular, tablet ou qualquer tipo de tela a aplicação se adapta.
 
 Participantes do Projeto:
+
 Ana Vitoria Lima,
 Daniela Aparecida Neves,
 Gabriel Moreira,
